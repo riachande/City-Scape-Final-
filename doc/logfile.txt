@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/RiaChande/CityScape 
+-d
+/Users/RiaChande/CityScape /doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/RiaChande/Downloads/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/RiaChande/CityScape /Moon.java
+<---- end of javadoc command ---->
+Loading source file /Users/RiaChande/CityScape /Moon.java...
+Constructing Javadoc information...
+Standard Doclet version 1.6.0_65
+Building tree for all the packages and classes...
+Generating /Users/RiaChande/CityScape /doc/Moon.html...
+/Users/RiaChande/CityScape /Moon.java:15: warning - @Ria is an unknown tag.
+/Users/RiaChande/CityScape /Moon.java:37: warning - @param argument "y" is not a parameter name.
+/Users/RiaChande/CityScape /Moon.java:37: warning - @return tag cannot be used in method with void return type.
+Generating /Users/RiaChande/CityScape /doc/package-frame.html...
+Generating /Users/RiaChande/CityScape /doc/package-summary.html...
+Generating /Users/RiaChande/CityScape /doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/RiaChande/CityScape /doc/allclasses-frame.html...
+Generating /Users/RiaChande/CityScape /doc/allclasses-noframe.html...
+Generating /Users/RiaChande/CityScape /doc/index.html...
+Generating /Users/RiaChande/CityScape /doc/stylesheet.css...
+3 warnings
